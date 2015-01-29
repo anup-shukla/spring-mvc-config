@@ -7,6 +7,7 @@ https://code.google.com/p/send-sms-from-computer-to-mobile-using-way2sms/source/
 http://www.coderanch.com/t/328111/java/java/Generate-Digit-Random-Number
 http://stackoverflow.com/questions/25260527/obtaining-entitymanager-in-spring-hibernate-configuration
 http://www.mkyong.com/spring/spring-propertyplaceholderconfigurer-example/
+http://stackoverflow.com/questions/1555262/calculating-the-difference-between-two-java-date-instances
 <encoding>UTF-8</encoding>
 <compilerArguments>
 <processor>org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor</processor>
