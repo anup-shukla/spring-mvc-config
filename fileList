@@ -9,6 +9,7 @@ http://stackoverflow.com/questions/25260527/obtaining-entitymanager-in-spring-hi
 http://www.mkyong.com/spring/spring-propertyplaceholderconfigurer-example/
 http://stackoverflow.com/questions/1555262/calculating-the-difference-between-two-java-date-instances
 https://github.com/FasterXML/jackson-docs/wiki/JacksonSampleSimplePojoMapper
+http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-apache-httpclient/
 <encoding>UTF-8</encoding>
 <compilerArguments>
 <processor>org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor</processor>
